@@ -3032,6 +3032,7 @@ input, select, textarea {
 				width: 100%;
 				z-index: 10001;
 				background: #0c1514;
+				border-bottom: 1.5px solid #d4564a;
 				color: #e0912a;
 				min-width: 320px;
 			}
@@ -3074,6 +3075,7 @@ input, select, textarea {
 						text-transform: none !important;
 						font-family: 'Font Awesome 5 Free';
 						font-weight: 900;
+						border-bottom: 1.5px solid #d4564a;
 					}
 
 					#titleBar .toggle:before {
